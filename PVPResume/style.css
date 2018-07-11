@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+.parent{
+  display:flex;
+  flex-direction: row;
+}
+.parent{
+  border:2px solid #ddd;
+}
+a{
+  word-wrap:break-word;
+}
+
+  border:2px solid #ddd;
+}
+.childone{
+  width:30%;
+  border:2px solid red;
+  padding:2%;
+  margin:2%;
+  background-color: blue;
+}
+.childtwo{
+  width:70%;
+  border:2px solid red;
+  padding:2%;
+  margin:2%;
+  background-color: yellow;
+}
+img{
+width:80px;
+height=90px;
+display:block;
+margin-left: auto;
+margin-right: auto;
+border-radius:50%;
+box-shadow: 3px 3px 3px yellow;
+
+}
+@media only screen and (min-width:769px ) and  (max-width:1024){
+
+}
+.parent{
+  display:flex;
+  flex-direction: row;
+}
+.parent{
+  border:2px solid #ddd;
+}
+a{
+  word-wrap:break-word;
+}
+.childone{
+  width:30%;
+  border:2px solid red;
+  padding:2%;
+  margin:2%;
+}
+.childtwo{
+  width:70%;
+  border:2px solid red;
+  padding:2%;
+  margin:2%;
+}
+img{
+width:80px;
+height=90px;
+display:block;
+margin-left: auto;
+margin-right: auto;
+border-radius:50%;
+box-shadow: 3px 3px 3px yellow;
+
+}

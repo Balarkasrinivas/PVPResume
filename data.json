@@ -1,0 +1,42 @@
+{
+  "profile":{
+    "name":"Balarka",
+    "email":"balarka98@gmail.com",
+    "mobile":"9876531234"
+},
+"career":{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+},
+"education":[
+  {
+    "degree":"b.tech",
+    "institute" : "pvpsit",
+    "data":["2016-2020","85%"]
+
+  },
+  {
+    "degree":"cbse",
+    "institute":"vps",
+    "data":["2014","82%"]
+  }
+],
+"skills":[
+  {
+    "title":"programming languages",
+    "info":["c","c++","java","python"]
+  },
+  {
+    "title":"database",
+    "info":["oracle","mysql","sql"]
+  },
+  {
+    "title":"os",
+    "info":["windows","mac","unix"]
+  },
+  {
+    "title":"wt",
+    "info":["xml","css","html"]
+  }
+]
+}
